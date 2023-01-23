@@ -1,0 +1,3 @@
+C:/OneDrive - Personal/OneDrive/Documents/Arduino/Clock, Light, LCD/cmake-build-debug/CMakeFiles/Clock__Light__LCD.dir
+C:/OneDrive - Personal/OneDrive/Documents/Arduino/Clock, Light, LCD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/OneDrive - Personal/OneDrive/Documents/Arduino/Clock, Light, LCD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
